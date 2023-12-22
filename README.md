@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @naptune-cat
 - 👀 I’m interested in Android Development and web development
 - 🌱 I’m currently learning Kotlin App development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me mkhanzoya8866@gmail.com
 
 <!---
 naptune-cat/naptune-cat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
