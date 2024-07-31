@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naptune-cat
 - 👀 I’m interested in Android Development and web development
-- 🌱 I’m currently learning Kotlin App development
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me mkhanzoya8866@gmail.com
 
 <!---
