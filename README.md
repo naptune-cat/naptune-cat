@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naptune-cat
-- 👀 I’m interested in Android Development and web development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me mkhanzoya8866@gmail.com
 - 💻 CodingNinja https://www.naukri.com/code360/profile/zoya_khan11
